@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searcherFragment"
+        android:title="@string/searcher"
+        android:icon="@drawable/ic_search"/>
+
+    <item
+        android:id="@+id/saveFragment"
+        android:title="@string/save"
+        android:icon="@drawable/ic_like"/>
+
+    <item
+        android:id="@+id/gameFragment"
+        android:title="@string/game"
+        android:icon="@drawable/ic_game"/>
+</menu>
